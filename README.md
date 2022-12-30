@@ -1,10 +1,18 @@
 ### Hi there :smile:
 
 <p> 
-   I'm Luigi Olivi, and I'm a developer. Actually, I'm learning and working with <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" height="25px">,  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" height="25px"> and  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=javascript-logo" height="25px">.
+   I'm Luigi Olivi, and I'm a developer from Brazil. 
+</p>
+
+<h2 text-align="center">Languages:</h2>
+<p>
+<img height="40" src="https://logospng.org/download/html-5/logo-html-5-1536.png">&nbsp
+<img height="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">&nbsp
+<img height="40" src="https://logospng.org/download/javascript/logo-javascript-1024.png">
 </p>
 
 <br>
 
 ![Luigi stats](https://github-readme-stats.vercel.app/api?username=luigiolivi&show_icons=true&theme=tokyonight)
-
+      
+      
