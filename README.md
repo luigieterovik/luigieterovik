@@ -1,7 +1,7 @@
 ### Hi there :smile:
 
 <p> 
-   Eu sou o Luigi Olivi, e sou um desenvolvedor Full Stack. &nbsp <img height="30" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/80/male-technologist_1f468-200d-1f4bb.png">
+   Eu sou o Luigi Olivi, e sou um desenvolvedor Full Stack. &nbsp <img height="25" src="https://images.emojiterra.com/google/android-10/512px/1f468-1f4bb.png">
 </p>
 
 <h2 text-align="center">Linguagens e tecnologias:</h2>
