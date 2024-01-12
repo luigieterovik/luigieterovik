@@ -12,9 +12,6 @@
 <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
 
 ![Luigi stats](https://github-readme-stats.vercel.app/api?username=luigiolivi&theme=blue-green)
-<br>
-<br>
-![Luigi stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luigiolivi&theme=blue-green)
 
       
 
