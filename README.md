@@ -1,8 +1,15 @@
-### Hi there :smile:
+<img src="https://r2.easyimg.io/rkwqbwstk/bar.png" width="100%" height="5px" />
 
-<p> 
-   Eu sou o Luigi Olivi, e sou um desenvolvedor Fullstack. &nbsp <img height="25" src="https://images.emojiterra.com/google/android-10/512px/1f468-1f4bb.png">
-</p>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=8F23FF&vCenter=true&repeat=false&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Luigi!+)](https://git.io/typing-svg)
+
+<ul>
+   <li>🚀 Desenvolvedor web FullStack com um ano de experiência</li>
+   <li>✉️ Você pode contatar-me por <a href="mailto:eterovik.luigi@gmail.com">eterovik.luigi@gmail.com</a></li>
+   <li>🧠 Atualmente estudando TypeScript e React Native</li>
+</ul>
+
 
 <h2 text-align="center">Linguagens e tecnologias:</h2>
 
@@ -17,7 +24,7 @@
 <span style="display: inline-block;"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></span>
 <span style="display: inline-block;"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></span>
 
-<h3>📄 Banco de dados:</h3>
+<h3>📂 Banco de dados:</h3>
 <span style="display: inline-block;"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
 <span style="display: inline-block;"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></span>
 <span style="display: inline-block;"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></span>
