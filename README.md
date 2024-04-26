@@ -1,7 +1,5 @@
 <img src="https://r2.easyimg.io/rkwqbwstk/bar.png" width="40%" height="5px" />
 
-<br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=8F23FF&vCenter=true&repeat=false&random=false&width=435&height=30&lines=Ol%C3%A1%2C+eu+sou+o+Luigi!+)](https://git.io/typing-svg)
 
 <ul>
