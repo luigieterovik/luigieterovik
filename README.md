@@ -1,4 +1,4 @@
-<img src="https://r2.easyimg.io/rkwqbwstk/bar.png" width="35%" height="5px" />
+<img src="https://r2.easyimg.io/rkwqbwstk/bar.png" width="40%" height="5px" />
 
 <br>
 
