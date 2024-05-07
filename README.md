@@ -1,9 +1,7 @@
-<img src="https://r2.easyimg.io/rkwqbwstk/bar.png" width="40%" height="5px" /> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=8F23FF&vCenter=true&repeat=false&random=false&width=435&height=30&lines=Ol%C3%A1%2C+eu+sou+o+Luigi!+)](https://git.io/typing-svg)
+<h2>Luigi Eterovik </h2>
 
 <ul>
-   <li>🚀 Desenvolvedor web FullStack com um ano de experiência</li>
+   <li>🚀 Desenvolvedor FullStack com um ano de experiência</li>
    <li>✉️ Você pode contatar-me por <a href="mailto:eterovik.luigi@gmail.com">eterovik.luigi@gmail.com</a></li>
    <li>🧠 Atualmente estudando TypeScript e React Native</li>
 </ul>
