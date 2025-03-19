@@ -1,7 +1,7 @@
 <h2>Luigi Eterovik </h2>
 
 <ul>
-   <li>🚀 Desenvolvedor FullStack com um ano de experiência</li>
+   <li>🚀 Desenvolvedor FullStack com dois anos de experiência</li>
    <li>✉️ Você pode contatar-me por <a href="mailto:eterovik.luigi@gmail.com">eterovik.luigi@gmail.com</a></li>
    <li>🧠 Atualmente estudando TypeScript e React Native</li>
 </ul>
