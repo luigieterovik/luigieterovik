@@ -19,6 +19,7 @@
 <span style="display: inline-block;"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></span>
 <span style="display: inline-block;"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></span>
 <span style="display: inline-block;"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></span>
+<span style="display: inline-block;"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></span>
 
 <h4>📂 Banco de dados:</h4>
 <span style="display: inline-block;"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
